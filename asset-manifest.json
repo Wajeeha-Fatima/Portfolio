@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Wajeeha-Fatima.github.io/Portfolio/static/css/main.326472ac.css",
-    "main.js": "/Wajeeha-Fatima.github.io/Portfolio/static/js/main.0a76c41c.js",
-    "static/media/portfolio1.png": "/Wajeeha-Fatima.github.io/Portfolio/static/media/portfolio1.44cb6e40b1dc40149db9.png",
-    "static/media/portfolio2.png": "/Wajeeha-Fatima.github.io/Portfolio/static/media/portfolio2.d90d6d7600c5b44eeacb.png",
-    "static/media/portfolio3.png": "/Wajeeha-Fatima.github.io/Portfolio/static/media/portfolio3.b73ff17ba48101a992c0.png",
-    "static/media/wajeehafatima.pdf": "/Wajeeha-Fatima.github.io/Portfolio/static/media/wajeehafatima.f3b62866cb6fef20f0c6.pdf",
-    "index.html": "/Wajeeha-Fatima.github.io/Portfolio/index.html",
-    "main.326472ac.css.map": "/Wajeeha-Fatima.github.io/Portfolio/static/css/main.326472ac.css.map",
-    "main.0a76c41c.js.map": "/Wajeeha-Fatima.github.io/Portfolio/static/js/main.0a76c41c.js.map"
+    "main.css": "/Portfolio/static/css/main.326472ac.css",
+    "main.js": "/Portfolio/static/js/main.287352ca.js",
+    "static/media/portfolio1.png": "/Portfolio/static/media/portfolio1.44cb6e40b1dc40149db9.png",
+    "static/media/portfolio2.png": "/Portfolio/static/media/portfolio2.d90d6d7600c5b44eeacb.png",
+    "static/media/portfolio3.png": "/Portfolio/static/media/portfolio3.b73ff17ba48101a992c0.png",
+    "static/media/wajeehafatima.pdf": "/Portfolio/static/media/wajeehafatima.f3b62866cb6fef20f0c6.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.326472ac.css.map": "/Portfolio/static/css/main.326472ac.css.map",
+    "main.287352ca.js.map": "/Portfolio/static/js/main.287352ca.js.map"
   },
   "entrypoints": [
     "static/css/main.326472ac.css",
-    "static/js/main.0a76c41c.js"
+    "static/js/main.287352ca.js"
   ]
 }
