@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wajeehafatima/static/css/main.326472ac.css",
+    "main.js": "/wajeehafatima/static/js/main.05929b48.js",
+    "static/media/portfolio1.png": "/wajeehafatima/static/media/portfolio1.44cb6e40b1dc40149db9.png",
+    "static/media/portfolio2.png": "/wajeehafatima/static/media/portfolio2.d90d6d7600c5b44eeacb.png",
+    "static/media/portfolio3.png": "/wajeehafatima/static/media/portfolio3.b73ff17ba48101a992c0.png",
+    "static/media/wajeehafatima.pdf": "/wajeehafatima/static/media/wajeehafatima.f3b62866cb6fef20f0c6.pdf",
+    "index.html": "/wajeehafatima/index.html",
+    "main.326472ac.css.map": "/wajeehafatima/static/css/main.326472ac.css.map",
+    "main.05929b48.js.map": "/wajeehafatima/static/js/main.05929b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326472ac.css",
+    "static/js/main.05929b48.js"
+  ]
+}
