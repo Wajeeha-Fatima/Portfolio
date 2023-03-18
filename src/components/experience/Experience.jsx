@@ -4,8 +4,9 @@ import { BsFillPatchCheckFill } from 'react-icons/bs'
 
 function Experience() {
     return (
+        <div>
+             <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         <section id='experience'>
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
             <h5>What Skills I Have</h5>
             <h2>My Experience</h2>
 
@@ -100,7 +101,8 @@ function Experience() {
                     </div>
                 </div>
             </div>
-        </section >
+            </section >
+            </div>
     )
 }
 

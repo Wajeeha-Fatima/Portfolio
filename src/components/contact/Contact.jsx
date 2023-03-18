@@ -23,10 +23,11 @@ const Contact = () => {
     };
 
     return (
-        <section id='contact'>
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <div>
+               <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
             <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
             <br /><br /><br /><br /><br /><br /><br />
+        <section id='contact'>
             <h5>Get In Touch</h5>
             <h2>Contact Me</h2>
 
@@ -54,6 +55,7 @@ const Contact = () => {
                 </form>
             </div>
         </section>
+        </div>
     )
 }
 

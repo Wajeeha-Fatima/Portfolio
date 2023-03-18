@@ -6,8 +6,9 @@ import IMG3 from '../../assets/portfolio3.png'
 
 const Portfolio = () => {
     return (
-        <section id='portfolio'>
+        <div>
             <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <section id='portfolio'>
             <h5>My Recent Work</h5>
             <h2>Portfolio</h2>
             <div className="container portfolio__container">
@@ -42,7 +43,8 @@ const Portfolio = () => {
                     </div>
                 </article>
             </div>
-        </section>
+            </section>
+            </div>
     )
 }
 
